@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Introduction_to_Django",
-    "\\Introduction_to_Django\\LibraryProject",
-    "\\Introduction_to_Django\\LibraryProject\\bookshelf",
-    "\\Introduction_to_Django\\LibraryProject\\crud_docs",
-    "\\Introduction_to_Django\\LibraryProject\\LibraryProject"
+    "\\django-models",
+    "\\django-models\\LibraryProject",
+    "\\django-models\\LibraryProject\\relationship_app",
+    "\\Introduction_to_Django"
   ],
-  "SelectedNode": "\\Introduction_to_Django\\LibraryProject\\manage.py",
+  "SelectedNode": "\\django-models\\LibraryProject\\relationship_app\\query_samples.py",
   "PreviewInSolutionExplorer": false
 }
