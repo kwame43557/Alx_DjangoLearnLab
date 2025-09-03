@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\relationship_app",
-    "\\relationship_app\\templates"
+    "\\LibraryProject",
+    "\\relationship_app"
   ],
-  "SelectedNode": "\\relationship_app\\templates",
+  "SelectedNode": "\\LibraryProject\\settings.py",
   "PreviewInSolutionExplorer": false
 }
