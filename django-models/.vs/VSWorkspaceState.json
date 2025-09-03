@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\LibraryProject",
+    "\\LibraryProject\\LibraryProject",
     "\\LibraryProject\\relationship_app",
     "\\LibraryProject\\relationship_app\\templates"
   ],
-  "SelectedNode": "\\LibraryProject\\relationship_app\\views.py",
+  "SelectedNode": "\\LibraryProject\\LibraryProject\\urls.py",
   "PreviewInSolutionExplorer": false
 }
