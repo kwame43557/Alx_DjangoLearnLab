@@ -6,6 +6,6 @@
     "\\LibraryProject\\relationship_app",
     "\\LibraryProject\\relationship_app\\templates"
   ],
-  "SelectedNode": "\\LibraryProject\\LibraryProject\\urls.py",
+  "SelectedNode": "\\LibraryProject\\relationship_app\\views.py",
   "PreviewInSolutionExplorer": false
 }
